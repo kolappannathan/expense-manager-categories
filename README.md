@@ -1,2 +1,3 @@
 # expense-manager-categories
-Categories for an expense manager application. Contains Income and Expense categories in YAML format.
+
+Income and Expense categories for an expense manager application. Sub-categories are provided for all applicable ccategories. All the data is saved in YAML format.

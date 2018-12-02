@@ -1,22 +1,32 @@
 ---
-# Info : Categories for expenses
-# Modified On : 14 Nov 2018
-# Version : 0.0.1
+# Info        : Categories for expenses
+# Modified On : 02 Dec 2018
+# Version     : 0.0.2
 
 - Accomodation
+ - Hotels
+ - House Rent
+ - Maintanence Charges
+ - Paying Guest
+ - Security Deposit
+
+- Banks
+ - Charges
+ - Fees
+ - Penalties / Fine
 
 - Beauty
  - Cosmetics
  - Parlour
  - Saloon
- - Other
+ - Others
 
 - Bills / Utilities
- - Cooking Gas # LPG, Bio Gas, etc...
+ - Gas # LPG, Bio Gas, etc...
  - Electricity
  - Mobile & Internet
  - Water
- - Other
+ - Others
 
 - Debt Payback
  - Loan
@@ -26,31 +36,40 @@
  - Books
  - Fee
  - Xerox
- - Other
+ - Others
+ 
+- Electronics
+ - Purchase
+ - Accessories
+ - Service / Maintanence
  
 - Entertainment
+ - Books, Comics, etc...
  - Games & Toys
  - Media Purchase
+ - Newspapers
  - Sports
  - Subscriptions # NetFlix, Spotify, HotStar, etc...
- - TV
- - Other
+ - TV # Charges for cable, dish, etc...
+ - Others
 
 - Events
  - Entry Fee
  - Parties
  - Special ocasions
  - Tours
- - Other
+ - Others
 
 - Fashion
  - Bags & Purses
  - Clothes
  - Jewelary
  - Footwear
+ - Ironing
+ - Laundry
  - Tailoring
  - Watches & Wearbles
- - Other
+ - Others
 
 - Food
  - Beverages
@@ -58,66 +77,77 @@
  - Fruits
  - Snacks
  - Water
-
-
-
-
-
-
-
-
-
-
  
-- Transport
- - Bus
- - Train
- - Metro
- - Cab / Auto / Taxi
- - Flight
- # The following categories only apply if you have a own vehicle
- - Fuel
- - Maintanence
- - Insurance
- - Parking
- 
+- Given Away
+ - Donations
+ - Religious Offerings
+ - Tips
+
+- Government
+ - Taxes
+ - Bills / Charges
+ - Deposits
+ - Others
+
 - Grocery
-
-- Household Expenses
- - Plumbing
- - Electrical Work
- - Insurance
- - Furniture
- - Decoration
- - Alteration
- 
-- Pets
- - Medical
- - Food
- - Toys
- - Other
- 
-- People
- - Gifts
- - Lending
- - Family
- - Friends
+ - Household Groceries
+ - Vegetables
+ - Others
 
 - Health
+ - Gym
+ - Insurance
  - Medical Fee
  - Medicines
- - Insurance
  - Spectacles
- - Other
- 
+ - Others
+
+- Household Expenses
+ - Alteration
+ - Decoration
+ - Electrical Work
+ - Furniture
+ - Insurance
+ - Pest Control
+ - Plumbing
+ - Others
+
 - Investment
- - Stock Market
- - Mutual Funds
- - Gold
  - Bank Deposit # For RD, Fixed deposit & other forms of deposit in banks
  - Bonds
  - Cryptocurriences
+ - Gold
+ - Mutual Funds
+ - Stocks
  - Other Assets
  - Other Investments
+
+- Pets
+ - Food
+ - Medical
+ - Toys
+ - Others
+ 
+- People
+ - Gifts
+ - Family
+ - Friends
+ - Lending
+ 
+- Software
+ - Purchases
+ - Subscriptions
+ 
+- Transport
+ - Bus
+ - Cab / Auto / Taxi
+ - Flight
+ - Metro
+ - Train
+ # The following categories only apply if you have a own vehicle
+ - Fuel
+ - Insurance
+ - Maintanence
+ - Parking
 
 ...
