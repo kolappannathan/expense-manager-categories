@@ -3,8 +3,8 @@
 # GitHub      : https://github.com/kolappannathan/expense-manager-categories
 # License     : MIT License
 # Author      : Kolappan Nathan
-# Modified On : 27 Dec 2018
-# Version     : 1.0.0
+# Modified On : 05 May 2018
+# Version     : 2.0.0
 
 - Accomodation
  - Hotels
@@ -12,10 +12,10 @@
  - Maintanence Charges
  - Paying Guest
  - Security Deposits
+ - Others
 
 - Banks
- - Charges
- - Fees
+ - Charges / Fees
  - Penalties / Fine
 
 - Beauty
@@ -66,6 +66,7 @@
 - Fashion
  - Bags & Purses
  - Clothes
+ - Glasses # Spectacles are in medical category. This is for the likes of sun glasses, coolers, etc...
  - Jewellery
  - Footwear
  - Ironing
@@ -82,7 +83,7 @@
  - Water
  
 - Given Away
- - Donations
+ - Donations / Charity
  - Religious Offerings
  - Tips
 
@@ -122,11 +123,13 @@
  - Cryptocurriences
  - Gold
  - Mutual Funds
+ - Real Estate
  - Stocks
  - Other Assets
  - Other Investments
 
 - Pets
+ - Clothing
  - Food
  - Medical
  - Toys
@@ -148,7 +151,7 @@
  - Flight
  - Metro
  - Train
- # The following categories only apply if you have a own vehicle
+ # The following categories applies for your own vehicle
  - Fuel
  - Insurance
  - Maintanence

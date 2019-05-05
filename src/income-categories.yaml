@@ -3,16 +3,19 @@
 # GitHub      : https://github.com/kolappannathan/expense-manager-categories
 # License     : MIT License
 # Author      : Kolappan Nathan
-# Modified On : 27 Dec 2018
-# Version     : 1.0.0
+# Modified On : 05 May 2018
+# Version     : 2.0.0
 
 - Business Earnings # use your own subcategories such as blogging, sponsers, merchedise, etc...
 - Debt Collected
-- Gifts Recieved
-- Intrest Returns
+- Gifts # gift cards, gift vouchers, cash gifted, etc...
 - Investment Returns
+  - Intrest
+  - Stocks, Mutual Funds, etc...
+  - Rent # amount collected from properties such as rent, lease, air bnb, etc...
+  - Others
+- Refunds
 - Rewards / Cashbacks # if needed add cashback channels such as Amazon, Flipkart, etc... as sub categories.
-- Rent Collected
 - Salary
   - Salary
   - Bonus / Incentives
