@@ -1,4 +1,4 @@
-# expense-manager-categories
+# Expense Manager Categories
 
 Income and Expense categories for any expense manager application.
 
