@@ -3,8 +3,8 @@
 # GitHub      : https://github.com/kolappannathan/expense-manager-categories
 # License     : MIT License
 # Author      : Kolappan Nathan
-# Modified On : 05 May 2018
-# Version     : 2.0.0
+# Modified On : 08 May 2018
+# Version     : 3.0.0
 
 - Accomodation
  - Hotels
@@ -28,7 +28,7 @@
  - Gas # LPG, Bio Gas, etc...
  - Electricity
  - Mobile & Internet
- - Postal
+ - Postal / Mail
  - Water
  - Others
 
@@ -151,6 +151,7 @@
  - Cab / Auto / Taxi
  - Flight
  - Metro
+ - Movers / Trucks
  - Train
  # The following categories applies for your own vehicle
  - Fuel
