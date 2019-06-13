@@ -4,7 +4,7 @@
 
 Income and Expense categories for any expense manager application.
 
-Project URL: https://kolappannathan.github.io/projects/expense-manager-categories/index.html
+Website: [![website](https://img.shields.io/badge/View-website-blue.svg?style=flat-square&logo=mozilla%20firefox)](https://kolappannathan.github.io/projects/expense-manager-categories/index.html)
 
 ### Data structure
  - All the data is saved in YAML format.
