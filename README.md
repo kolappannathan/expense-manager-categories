@@ -9,7 +9,8 @@ Income and Expense categories for any expense manager application.
 
 [![GitHub release](https://img.shields.io/github/release/kolappannathan/expense-manager-categories.svg?logo=github&style=flat-square)](https://github.com/kolappannathan/expense-manager-categories/releases)
 
-### Data structure
+### Usage
+#### Data structure
  - All the data is saved in YAML format.
  - Sub-categories are provided for all applicable categories.
  - There is only one level of sub category. Multiple levels are not used.
