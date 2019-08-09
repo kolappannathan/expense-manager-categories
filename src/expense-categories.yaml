@@ -3,8 +3,8 @@
 # GitHub      : https://github.com/kolappannathan/expense-manager-categories
 # License     : MIT License
 # Author      : Kolappan Nathan
-# Modified On : 08 May 2018
-# Version     : 3.0.0
+# Modified On : 09 Aug 2019
+# Version     : 4.0.0
 
 - Accomodation
  - Hotels
@@ -54,6 +54,7 @@
  - Newspapers
  - Sports
  - Subscriptions # NetFlix, Spotify, HotStar, etc...
+ - Theme parks
  - TV # Charges for cable, dish, etc...
  - Others
 
@@ -83,7 +84,7 @@
  - Snacks
  - Water
  
-- Given Away
+- Tips, Donations, etc...
  - Donations / Charity
  - Religious Offerings
  - Tips
@@ -99,7 +100,7 @@
  - Vegetables
  - Others
 
-- Health
+- Health & Fitness
  - Gym
  - Insurance
  - Medical Fee
