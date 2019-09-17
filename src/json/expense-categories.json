@@ -1,68 +1,228 @@
 {
+    "info": {
+        "description": "Categories for expense",
+        "gitHub": "https://github.com/kolappannathan/expense-manager-categories",
+        "license": "MIT License",
+        "author": "Kolappan Nathan",
+        "modified_on": "17 Sep 2019",
+        "version": "5.0.0"
+    },
     "categories": [
         {
-            "name": "",
-            "subcategories": []
+            "name": "Accomodation",
+            "subcategories": [
+                "Hotels",
+                "House Rent",
+                "Maintanence Charges",
+                "Paying Guest",
+                "Security Deposits",
+                "Others"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Banks",
+            "subcategories": [
+                "Charges / Fees",
+                "Penalties / Fine"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Beauty",
+            "subcategories": [
+                "Cosmetics",
+                "Parlour",
+                "Saloon",
+                "Others"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Bills / Utilities",
+            "subcategories": [
+                "Gas",
+                "Electricity",
+                "Mobile & Internet",
+                "Postal / Mail",
+                "Water",
+                "Others"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Debt Payback",
+            "subcategories": [
+                "Loan",
+                "To People"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Education",
+            "subcategories": [
+                "Books",
+                "Fee",
+                "Xerox",
+                "Others"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Electronics",
+            "subcategories": [
+                "Purchase",
+                "Accessories",
+                "Service / Maintanence"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Entertainment",
+            "subcategories": [
+                "Books, Comics, etc...",
+                "Games & Toys",
+                "Media Purchase",
+                "Newspapers",
+                "Sports",
+                "Subscriptions",
+                "Theme parks",
+                "TV",
+                "Others"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Events",
+            "subcategories": [
+                "Entry Fee",
+                "Parties",
+                "Special ocasions",
+                "Tours",
+                "Others"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Fashion",
+            "subcategories": [
+                "Bags & Purses",
+                "Clothes",
+                "Glasses",
+                "Jewellery",
+                "Footwear",
+                "Ironing",
+                "Laundry",
+                "Tailoring",
+                "Watches & Wearbles",
+                "Others"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Food",
+            "subcategories": [
+                "Beverages",
+                "Dinning out",
+                "Fruits",
+                "Snacks",
+                "Water"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Tips, Donations, etc...",
+            "subcategories": [
+                "Donations / Charity",
+                "Religious Offerings",
+                "Tips"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Government",
+            "subcategories": [
+                "Taxes",
+                "Bills / Charges",
+                "Deposits",
+                "Others"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Grocery",
+            "subcategories": [
+                "Household Groceries",
+                "Vegetables",
+                "Others"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Health & Fitness",
+            "subcategories": [
+                "Gym",
+                "Insurance",
+                "Medical Fee",
+                "Medicines",
+                "Spectacles",
+                "Others"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Household Expenses",
+            "subcategories": [
+                "Alteration",
+                "Decoration",
+                "Electrical Work",
+                "Furniture",
+                "Insurance",
+                "Pest Control",
+                "Plumbing",
+                "Toiletries",
+                "Others"
+            ]
+        },
+        {
+            "name": "Investment",
+            "subcategories": [
+                "Bank Deposit",
+                "Bonds",
+                "Cryptocurriences",
+                "Gold",
+                "Mutual Funds",
+                "Real Estate",
+                "Stocks",
+                "Other Assets",
+                "Other Investments"
+            ]
+        },
+        {
+            "name": "Pets",
+            "subcategories": [
+                "Clothing",
+                "Food",
+                "Medical",
+                "Toys",
+                "Others"
+            ]
+        },
+        {
+            "name": "People",
+            "subcategories": [
+                "Gifts",
+                "Family",
+                "Friends",
+                "Lending"
+            ]
+        },
+        {
+            "name": "Software",
+            "subcategories": [
+                "Purchases",
+                "Subscriptions"
+            ]
+        },
+        {
+            "name": "Transport",
+            "subcategories": [
+                "Bus",
+                "Cab / Auto / Taxi",
+                "Flight",
+                "Metro",
+                "Movers / Trucks",
+                "Train",
+                "Fuel",
+                "Insurance",
+                "Maintanence",
+                "Parking"
+            ]
         }
     ]
 }

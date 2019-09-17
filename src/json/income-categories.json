@@ -1,67 +1,62 @@
 {
+    "info" : {
+        "description": "Categories for income",
+        "gitHub" : "https://github.com/kolappannathan/expense-manager-categories",
+        "license" : "MIT License",
+        "author" : "Kolappan Nathan",
+        "modified_on" : "17 Sep 2019",
+        "version" : "5.0.0"
+    },
     "categories": [
         {
-            "name": "",
+            "name": "Business Earnings",
             "subcategories": []
         },
         {
-            "name": "",
+            "name": "Debt Collected",
             "subcategories": []
         },
         {
-            "name": "",
+            "name": "Gifts",
             "subcategories": []
         },
         {
-            "name": "",
+            "name": "From Family",
             "subcategories": []
         },
         {
-            "name": "",
+            "name": "Inheritence",
             "subcategories": []
         },
         {
-            "name": "",
+            "name": "Investment Returns",
+            "subcategories": [
+                "Deposits",
+                "Intrest",
+                "Stocks, Mutual Funds, etc...",
+                "Rent",
+                "Property Sales",
+                "Others"
+            ]
+        },
+        {
+            "name": "Refunds",
             "subcategories": []
         },
         {
-            "name": "",
+            "name": "Rewards / Cashbacks",
             "subcategories": []
         },
         {
-            "name": "",
-            "subcategories": []
+            "name": "Salary",
+            "subcategories": [
+                "Salary",
+                "Bonus / Incentives",
+                "Allowance"
+            ]
         },
         {
-            "name": "",
-            "subcategories": []
-        },
-        {
-            "name": "",
-            "subcategories": []
-        },
-        {
-            "name": "",
-            "subcategories": []
-        },
-        {
-            "name": "",
-            "subcategories": []
-        },
-        {
-            "name": "",
-            "subcategories": []
-        },
-        {
-            "name": "",
-            "subcategories": []
-        },
-        {
-            "name": "",
-            "subcategories": []
-        },
-        {
-            "name": "",
+            "name": "Others",
             "subcategories": []
         }
     ]

@@ -12,7 +12,7 @@ Income and Expense categories for any expense manager application.
 
 ### Usage
 #### Data structure
- - All the data is saved in YAML format.
+ - All the data is available in both YAML and JSON format.
+ - Any description is provided as comments after the category name. This descriptions is present only in YAML and not in JSON.
  - Sub-categories are provided for all applicable categories.
  - There is only one level of sub category. Multiple levels are not used.
- - Any description is provided as comments after the category name
