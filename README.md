@@ -1,5 +1,4 @@
 # Expense Manager Categories
-[![Website](https://img.shields.io/badge/view-website-blue.svg?style=flat-square&logo=mozilla%20firefox)](https://kolappan.dev/project/expense-manager-categories)
 [![GitHub](https://img.shields.io/github/license/kolappannathan/expense-manager-categories.svg?style=flat-square)](#)
 [![GitHub issues](https://img.shields.io/github/issues/kolappannathan/expense-manager-categories.svg?style=flat-square)](#)
 [![GitHub contributors](https://img.shields.io/github/contributors/kolappannathan/expense-manager-categories.svg?color=orange&style=flat-square)](#)
